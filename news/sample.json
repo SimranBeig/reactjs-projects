@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1957,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jeff Somers",
+            "title": "Why You Should Buy the Dumbest TV You Can Find",
+            "description": "Watching television used to be a pretty straightforward experience. At one time, there were roughly seven channels and you got them by fiddling with an antenna. But the proliferation of programming platforms and the advance of technology has made interacting …",
+            "url": "https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a4e2614d04ab16c6fe589dfc012093ab.jpg",
+            "publishedAt": "2022-04-08T15:00:00Z",
+            "content": "Watching television used to be a pretty straightforward experience. At one time, there were roughly seven channels and you got them by fiddling with an antenna. But the proliferation of programming p… [+6385 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Google and iFixit will offer parts to help you repair Pixel phones",
+            "description": "Google is joining Apple and Samsung in giving you the resources needed to fix phones yourself. The tech firm is partnering with iFixit to provide official parts for Pixel phones later this year. The initiative will cover models ranging from the Pixel 2 throug…",
+            "url": "https://www.engadget.com/google-pixel-phone-self-service-repair-parts-150042251.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/89196810-3f2b-11ec-b6ed-db4c94952034",
+            "publishedAt": "2022-04-08T15:00:42Z",
+            "content": "Google is joining Apple and Samsung in giving you the resources needed to fix phones yourself. The tech firm is partnering with iFixit to provide official parts for Pixel phones later this year. The … [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "After 24 years Black Star is back, but only on the Luminary podcasting platform",
+            "description": "In 1998, Brooklyn-based hip-hop superstars Talib Qweli and yasiin bey (still then going by Mos Def and capitalizing his name) found themselves recording at the same time, each working on a solo album. With the support of DJ and producer, Hi-Tek, they decided …",
+            "url": "https://www.engadget.com/after-24-years-black-star-is-back-but-only-on-the-luminary-podcasting-platform-212534798.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/37a4a770-b77f-11ec-bfff-23beee4df87b",
+            "publishedAt": "2022-04-08T21:25:34Z",
+            "content": "In 1998, Brooklyn-based hip-hop superstars Talib Qweli and yasiin bey (still then going by Mos Def and capitalizing his name) found themselves recording at the same time, each working on a solo album… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Credit Agricole steals an M&A march on UniCredit - Reuters.com",
+            "description": "Credit Agricole <a href=\"https://www.reuters.com/companies/CAGR.PA\" target=\"_blank\">(CAGR.PA)</a> boss Philippe Brassac is taking the fast lane on Italy’s M&A highway. The French bank scooped up 9% of No. 3 Italian lender Banco BPM <a href=\"https://www.reuter…",
+            "url": "https://www.reuters.com/breakingviews/credit-agricole-steals-an-ma-march-unicredit-2022-04-08/",
+            "urlToImage": "https://www.reuters.com/resizer/LtBYqnoueNXjF4qKGsThme-9TFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VMFPHYQ6XVL4PKIQYQFCTBX4G4.jpg",
+            "publishedAt": "2022-04-08T08:58:00Z",
+            "content": "MILAN, April 8 (Reuters Breakingviews) - Credit Agricole (CAGR.PA) boss Philippe Brassac is taking the fast lane on Italys M&amp;A highway. The French bank scooped up 9% of No. 3 Italian lender Banco… [+1659 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Toshiba's bids plan deserves cautious optimism - Reuters",
+            "description": "Chalk up one for Toshiba’s <a href=\"https://www.reuters.com/companies/6502.T\" target=\"_blank\">(6502.T)</a> activist shareholders: the embattled $17 billion group <a href=\"https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20220407_1.pdf\" targ…",
+            "url": "https://www.reuters.com/breakingviews/toshibas-bids-plan-deserves-cautious-optimism-2022-04-08/",
+            "urlToImage": "https://www.reuters.com/resizer/IHNNyNhlyjrKt1gCq5pJXckzpVM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6MDF42HDBP3DLWXV37U2SJVYA.jpg",
+            "publishedAt": "2022-04-08T04:52:00Z",
+            "content": "HONG KONG, April 8 (Reuters Breakingviews) - Chalk up one for Toshibas (6502.T) activist shareholders: the embattled $17 billion group has launched a fresh strategic review to engage with buyout grou… [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan March exports hit new record, Ukraine war clouds outlook - Reuters.com",
+            "description": "Taiwan's exports rose for a 21st straight month in March to a new record in line with forecasts, boosted by continued strong tech demand, though the government warned of continued supply chain uncertainty and the effect of the war in Ukraine.",
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-march-exports-hit-new-record-ukraine-war-clouds-outlook-2022-04-08/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82",
+            "publishedAt": "2022-04-08T08:55:00Z",
+            "content": "TAIPEI, April 8 (Reuters) - Taiwan's exports rose for a 21st straight month in March to a new record in line with forecasts, boosted by continued strong tech demand, though the government warned of c… [+2321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Samsung's reputation hit as prices slashed at home for new premium phone - Reuters",
+            "description": "Samsung Electronics' <a href=\"https://www.reuters.com/companies/005930.KS\" target=\"_blank\">(005930.KS)</a> flagship Galaxy S22 smartphone has taken a battering from reports of hobbled performance and has seen its price halved at home in South Korea just weeks…",
+            "url": "https://www.reuters.com/world/asia-pacific/samsungs-reputation-hit-prices-slashed-home-new-premium-phone-2022-04-08/",
+            "urlToImage": "https://www.reuters.com/resizer/l5GD8mKFe_E_roR7qpgkZ5Q7PS4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GJULBH5SFFMSRIZ4VDWEXD4FLI.jpg",
+            "publishedAt": "2022-04-08T06:45:00Z",
+            "content": "SEOUL, April 8 (Reuters) - Samsung Electronics' (005930.KS) flagship Galaxy S22 smartphone has taken a battering from reports of hobbled performance and has seen its price halved at home in South Kor… [+5100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+            "title": "Apple iPhone SE 2022 review: Less is more",
+            "description": "The iPhone SE 2022 doesn't look any different to its predecessor, but it comes with a laundry list of under-the-hood changes. With powerful hardware, reliable camera, and a great overall value, it may just be the ideal option if you want a budget iPhone with …",
+            "url": "https://www.androidcentral.com/apple-iphone-se-2022-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ATcvgguQAZC9ngtccf6QNU-1200-80.jpg",
+            "publishedAt": "2022-04-08T12:00:55Z",
+            "content": "When the iPhone SE 2020 came along two years ago, it redefined the value conversation for the mid-range category. The phone utilized the same design as the iPhone 8 but came with flagship-tier hardwa… [+22278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Phil Harrison",
+            "title": "Anatomy of a Scandal to Roar: the seven best shows to stream this week",
+            "description": "Rupert Friend and Sienna Miller play a Tory MP and his long-suffering wife caught in a sexual assault cover-up, and a starry new series of feminist fables. Plus: the return of Catherine Tate and the Kardashians Continue reading...",
+            "url": "https://amp.theguardian.com/tv-and-radio/2022/apr/08/anatomy-of-a-scandal-to-roar-the-seven-best-shows-to-stream-this-week",
+            "urlToImage": "https://i.guim.co.uk/img/media/a2b5168fd35918e46093f540487b16b1c3035768/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=448d64db9928c94213141faa4b616293",
+            "publishedAt": "2022-04-08T06:00:15Z",
+            "content": "Pick of the week\r\nAnatomy of a Scandal \r\nRupert Friend in Anatomy of a Scandal. Photograph: Netflix\r\nA sexual assault committed by an MP? Followed by an attempted cover-up? This probably sounded like… [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helena Horton Environment reporter",
+            "title": "Annual bird count in UK gardens raises hopes for greenfinch",
+            "description": "RSPB scientists say small increase in sightings points to first signs of recovery of beleaguered speciesGreenfinch populations, which were previously in steep decline in the UK, are showing the first signs of recovery, according to the latest annual RSPB big …",
+            "url": "https://amp.theguardian.com/environment/2022/apr/08/annual-bird-count-uk-gardens-greenfinch",
+            "urlToImage": "https://i.guim.co.uk/img/media/44998583806e8379a72bb7f82b42a367791054f7/0_650_5627_3376/master/5627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f77444f4e3e822ae16b22dd93b737d",
+            "publishedAt": "2022-04-08T06:00:16Z",
+            "content": "Greenfinch populations, which were previously in steep decline in the UK, are showing the first signs of recovery, according to the latest annual RSPB big garden birdwatch results.\r\nThe citizen scien… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Google Partnering With iFixit To Sell Pixel Replacement Parts",
+            "description": "Google is partnering with iFixit to sell official replacement parts for its Pixel phones later this year, making it easier for independent professionals and consumers to repair the devices. From a report: The news follows similar moves by Apple and Samsung an…",
+            "url": "https://tech.slashdot.org/story/22/04/08/1811212/google-partnering-with-ifixit-to-sell-pixel-replacement-parts",
+            "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+            "publishedAt": "2022-04-08T18:11:00Z",
+            "content": "...for.\"\r\nAnd that's my best offer for a Funny mod!\r\nSeriously, the story got my hopes up. At first I thought they were going into the old parts business. I have two old boxen that just need new fans… [+177 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Adriana Nunez)",
+            "title": "Bolt's crypto acquisition highlights the need for one-click checkout differentiation",
+            "description": "One-click checkout provider Bolt acquired cryptocurrency startup Wyre Payments in a deal reportedly valued at $1.5 billion.",
+            "url": "https://www.businessinsider.com/bolt-acquires-cryptocurrency-startup-wyre-payments-2022-4",
+            "urlToImage": "https://i.insider.com/62504122ee61990018ddc095?width=1200&format=jpeg",
+            "publishedAt": "2022-04-08T13:55:35Z",
+            "content": "The news: One-click checkout provider Bolt acquired cryptocurrency startup Wyre Payments in a deal reportedly valued at $1.5 billion, people familiar with the matter told the Wall Street Journal.\r\nIn… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sacevedo@insider.com (Sophia Acevedo)",
+            "title": "Bank5 Connect review: Online high-interest checking and savings accounts with no monthly service fees",
+            "description": "Bank5 Connect is the online operation of Bank5. It offers a high-yield savings account, high-interest checking accounts, and CDs.",
+            "url": "https://www.businessinsider.com/personal-finance/bank5-connect-review",
+            "urlToImage": "https://i.insider.com/624da1ae0e1f410018b7a6b1?width=1200&format=jpeg",
+            "publishedAt": "2022-04-08T19:27:26Z",
+            "content": "Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but … [+4243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "StackCommerce",
+            "title": "Udemy's Massive Training Archive Can Lead You to the Career You Want",
+            "description": "The online educator offers more than 183,000 video courses packed with hard- and soft-skill training.",
+            "url": "https://www.entrepreneur.com/article/424113",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1649280406-Ent-Udemy.png",
+            "publishedAt": "2022-04-08T20:00:00Z",
+            "content": "The most brilliant business minds know they cant know everything. Oh, sure, everyone has areas of deep knowledge and experience. Still, the best-positioned entrepreneurs understand that learning a ha… [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Byungwook Kim",
+            "title": "Analysis-Samsung's reputation hit as prices slashed at home for new premium phone - Yahoo Canada Finance",
+            "description": "<ol><li>Analysis-Samsung's reputation hit as prices slashed at home for new premium phone  Yahoo Canada Finance\r\n</li><li>South Korean Galaxy S22 sales reportedly falter in the wake of the GOS scandal  Notebookcheck.net\r\n</li><li>Samsung S22 Ultra: Tips and T…",
+            "url": "https://ca.finance.yahoo.com/news/analysis-samsungs-reputation-hit-prices-064100249.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qZ9MI3xa4z00LIIxwfbErg--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.ca/591ecba3e685c5e0b20284b862bec93d",
+            "publishedAt": "2022-04-08T09:07:00Z",
+            "content": "By Byungwook Kim\r\nSEOUL (Reuters) - Samsung Electronics' flagship Galaxy S22 smartphone has taken a battering from reports of hobbled performance and has seen carriers half its price at home in South… [+5192 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Byungwook Kim, Reuters",
+            "title": "Samsung's reputation hit as prices slashed at home for new premium phone - Financial Post",
+            "description": "<ol><li>Samsung's reputation hit as prices slashed at home for new premium phone  Financial Post\r\n</li><li>South Korean Galaxy S22 sales reportedly falter in the wake of the GOS scandal  Notebookcheck.net\r\n</li><li>Samsung S22 Ultra: Tips and Tricks  Man of M…",
+            "url": "https://financialpost.com/pmn/business-pmn/samsungs-reputation-hit-as-prices-slashed-at-home-for-new-premium-phone-3",
+            "urlToImage": null,
+            "publishedAt": "2022-04-08T08:32:58Z",
+            "content": "Author of the article:\r\nArticle content\r\nSEOUL Samsung Electronics flagship Galaxy S22 smartphone has taken a battering from reports of hobbled performance and has seen carriers half its price at hom… [+6883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Design-milk.com"
+            },
+            "author": "Kelly Beall",
+            "title": "F5: Bimma Williams Talks About the Best Chair, the Barbershop + More",
+            "description": "Bimma Williams joins us for this week's Friday Five, sharing a favorite artist, a chair with a powerful story, the sweet treat he can't quit + more.",
+            "url": "https://design-milk.com/bimma-williams-talks-about-the-best-chair-of-2021-the-barkbershop-more/",
+            "urlToImage": "https://design-milk.com/images/2022/03/F5-Bimma-Williams-Claima-Van.jpg",
+            "publishedAt": "2022-04-08T13:00:30Z",
+            "content": "Bimma Williams is the host of Claima Stories, a career discovery podcast created in Portland, Oregon to help Black and Brown creatives discover their dream careers. Here he interviews leading and eme… [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ivan Mehta",
+            "title": "How to copy text from anywhere on the web",
+            "description": "We’re in 2022, so grabbing text from a website or a document should be pretty easy, right? But that’s not always the case. There might be part of a site that doesn’t easily let you copy some text, or maybe the text you need to copy is part of an image. So we’…",
+            "url": "https://thenextweb.com/news/how-to-capture-text-anywhere-ios-android-web",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FCapture-text.jpg&signature=8e83b304caeafbcd3875f0018e1aad1a",
+            "publishedAt": "2022-04-08T12:07:18Z",
+            "content": "Were in 2022, so grabbing text from a website or a document should be pretty easy, right? But thats not always the case.\r\nThere might be part of a site that doesnt easily let you copy some text, or m… [+2096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Al Williams",
+            "title": "A Close Look at a Little Known 8-bit Computer",
+            "description": "If you read about the history of personal computing, you hear a few familiar names like Microsoft, Apple, and even Commodore. But there were a host of companies that were well known and well regard…",
+            "url": "https://hackaday.com/2022/04/08/a-close-look-at-a-little-known-8-bit-computer/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2022/04/swtp_feat.jpg",
+            "publishedAt": "2022-04-08T18:30:20Z",
+            "content": "If you read about the history of personal computing, you hear a few familiar names like Microsoft, Apple, and even Commodore. But there were a host of companies that were well known and well regarded… [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "\"Gracias a la OTT recibimos un montón de datos que podemos interconectar\": Fabio Gallo, de la Liga Tech, habla sobre LaLiga Pass",
+            "description": "El fútbol español está de estreno internacional. Tras las noticias de las últimas semanas sobre las negociaciones para ver quién emite LaLiga durante el próximo lustro y muchos rumores previos sobre un lanzamiento así, Indonesia y Tailandia se han convertido …",
+            "url": "https://www.xataka.com/streaming/gracias-a-ott-recibimos-monton-datos-que-podemos-interconectar-fabio-gallo-liga-tech-habla-laliga-pass",
+            "urlToImage": "https://i.blogs.es/26de58/9ba2350f-5f43-4f03-8cd3-24acae8c8300/840_560.jpeg",
+            "publishedAt": "2022-04-08T12:30:55Z",
+            "content": "El fútbol español está de estreno internacional. Tras las noticias de las últimas semanas sobre las negociaciones para ver quién emite LaLiga durante el próximo lustro y muchos rumores previos sobre … [+11653 chars]"
+        }
+    ]
+}
