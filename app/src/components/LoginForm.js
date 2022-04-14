@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import {useHistory} from "react-router-dom";
 import axios from "axios";
 import AllEvents from "./AllEvents";
 
@@ -8,37 +8,33 @@ export default function LoginForm() {
 
   let loginValid = {'login': false};
 
-  const navigate = useNavigate();
+  const history = useHistory();
 
-  const apiKey = process.env.REACT_APP_API_KEY;
-  const apiUrl = process.env.REACT_APP_API_URL;
+  const apiKey = 'SEdRYnN6ZFFFRjpuc0oySXQ0NWt5';
+  const apiUrl = 'http://139.59.63.178:5454';
 
   async function login() {
     console.log("login");
-    // let token = apiKey;
     let item = { Phone };
-    axios
-      .post(`${apiUrl}/customer/iscustomerpresent`, {
+    //working axios code
+      axios({
+        method: "POST",
+        url: `http://139.59.63.178:5454/api/customer/iscustomerpresent`,
         headers: {
           "Content-Type": "application/json",
-          Authorization: apiKey,
-          AppVersion: "1.0.1",
-          Accept: "application/json",
+          Authorization: 'SEdRYnN6ZFFFRjpuc0oySXQ0NWt5',
+          AppVersion: '1.0.0'
         },
-        body: item,
+        data: {Phone: Phone}
       })
       .then((res) => {
-        console.log(res.data.Details);
+        console.log(res.data, "check");
         localStorage.setItem("data", JSON.stringify(res.data));
         loginValid.login = true
         if (loginValid.login === true){
             console.log(loginValid.login)
-            if(localStorage.getItem('data')){
-                console.log('data')
-                return <AllEvents/>
-            }
+            history.push('/AllEvents')
         }
-        navigate("/");
       })
       .catch((err) => {
         console.log(err);

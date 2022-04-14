@@ -1,7 +1,8 @@
 import React, { Component } from "react";
-import { BrowserRouter, Router } from "react-router-dom";
-// import EventDetails from "./components/EventDetails";
+import { BrowserRouter, Route } from "react-router-dom";
+import AllEvents from "./components/AllEvents";
 import LoginForm from "./components/LoginForm";
+import LogOut from "./components/LogOut";
 import Navbar from "./components/Navbar";
 
 export class App extends Component {
@@ -10,7 +11,19 @@ export class App extends Component {
       <>
         <BrowserRouter>
           <Navbar />
-          <LoginForm />
+          <Route exact path="/">
+            <LoginForm />
+          </Route>
+          <Route exact path="/AllEvents">
+            <AllEvents />
+          </Route>
+          <Route exact path="/EventsDetails">
+            <AllEvents />
+          </Route>
+          <Route exact path="/logout">
+            <LogOut />
+          </Route>
+
         </BrowserRouter>
       </>
     );
